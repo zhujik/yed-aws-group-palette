@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
-  <!--Created by yEd 3.22-->
+  <!--Created by yEd 3.23.1-->
   <key for="port" id="d0" yfiles.type="portgraphics"/>
   <key for="port" id="d1" yfiles.type="portgeometry"/>
   <key for="port" id="d2" yfiles.type="portuserdata"/>
@@ -18,9 +18,8 @@
   <graph edgedefault="directed" id="G">
     <node id="n0" yfiles.foldertype="group">
       <data key="d3" xml:space="preserve"><![CDATA[af0a30cb-1a80-457f-ac51-344060aa8854]]></data>
-      <data key="d4"/>
+      <data key="d4" xml:space="preserve"><![CDATA[AWS Cloud]]></data>
       <data key="d5" xml:space="preserve"/>
-      <data key="d6"/>
       <data key="d7">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
@@ -28,7 +27,7 @@
               <y:Geometry height="143.2673842841765" width="155.0779332615718" x="0.0" y="30.0"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#232F3E" raised="false" type="line" width="2.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="right" iconData="1" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#000000" verticalTextPosition="center" visible="true" width="117.52685546875" x="-3.0" xml:space="preserve" y="-3.0">AWS Cloud</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="right" iconData="1" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#000000" verticalTextPosition="center" visible="true" width="118.68408203125" x="-3.0" xml:space="preserve" y="-3.0">AWS Cloud</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" groupDepthFillColorEnabled="false" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
@@ -38,7 +37,7 @@
               <y:Geometry height="50.0" width="50.0" x="1986.47447895498" y="-175.5435965166918"/>
               <y:Fill color="#F2F0D8" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:DropShadow color="#D2D2D2" offsetX="4" offsetY="4"/>
               <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
@@ -52,9 +51,8 @@
     </node>
     <node id="n1" yfiles.foldertype="group">
       <data key="d3" xml:space="preserve"><![CDATA[679bc4d3-0876-432d-9f90-7c419053bdc2]]></data>
-      <data key="d4"/>
+      <data key="d4" xml:space="preserve"><![CDATA[AWS Cloud - AWS]]></data>
       <data key="d5" xml:space="preserve"/>
-      <data key="d6"/>
       <data key="d7">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
@@ -62,7 +60,7 @@
               <y:Geometry height="143.2673842841765" width="155.0779332615718" x="185.07793326157176" y="30.0"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#232F3E" raised="false" type="line" width="2.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="right" iconData="2" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#000000" verticalTextPosition="center" visible="true" width="117.52685546875" x="-3.0" xml:space="preserve" y="-3.0">AWS Cloud</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="right" iconData="2" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#000000" verticalTextPosition="center" visible="true" width="118.68408203125" x="-3.0" xml:space="preserve" y="-3.0">AWS Cloud</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" groupDepthFillColorEnabled="false" innerGraphDisplayEnabled="false"/>
               <y:NodeBounds considerNodeLabelSize="true"/>
@@ -73,7 +71,7 @@
               <y:Geometry height="50.0" width="50.0" x="2149.147541351771" y="-222.17728865878007"/>
               <y:Fill color="#F2F0D8" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:DropShadow color="#D2D2D2" offsetX="4" offsetY="4"/>
               <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
@@ -87,9 +85,8 @@
     </node>
     <node id="n2" yfiles.foldertype="group">
       <data key="d3" xml:space="preserve"><![CDATA[c284acd5-30ce-49fa-ba8d-407db4086cd3]]></data>
-      <data key="d4"/>
+      <data key="d4" xml:space="preserve"><![CDATA[Account]]></data>
       <data key="d5" xml:space="preserve"/>
-      <data key="d6"/>
       <data key="d7">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
@@ -97,7 +94,7 @@
               <y:Geometry height="143.2673842841765" width="155.0779332615718" x="370.1558665231436" y="30.0"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#B0084D" raised="false" type="line" width="2.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="right" iconData="3" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#B0084D" verticalTextPosition="center" visible="true" width="94.19921875" x="-3.0" xml:space="preserve" y="-3.0">Account</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="right" iconData="3" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#B0084D" verticalTextPosition="center" visible="true" width="99.15771484375" x="-3.0" xml:space="preserve" y="-3.0">Account</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" groupDepthFillColorEnabled="false" innerGraphDisplayEnabled="false"/>
               <y:NodeBounds considerNodeLabelSize="true"/>
@@ -108,7 +105,7 @@
               <y:Geometry height="50.0" width="50.0" x="2414.188058055112" y="-175.54359651669182"/>
               <y:Fill color="#F2F0D8" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:DropShadow color="#D2D2D2" offsetX="4" offsetY="4"/>
               <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
@@ -122,9 +119,8 @@
     </node>
     <node id="n3" yfiles.foldertype="group">
       <data key="d3" xml:space="preserve"><![CDATA[f3fe3021-5f60-4a75-a9dc-2915036fb7ae]]></data>
-      <data key="d4"/>
+      <data key="d4" xml:space="preserve"><![CDATA[Region]]></data>
       <data key="d5" xml:space="preserve"/>
-      <data key="d6"/>
       <data key="d7">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
@@ -132,7 +128,7 @@
               <y:Geometry height="143.2673842841765" width="155.0779332615718" x="555.2337997847153" y="30.0"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#147EBA" raised="false" type="dashed" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="right" iconData="4" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#147EBA" verticalTextPosition="center" visible="true" width="87.5341796875" x="-3.0" xml:space="preserve" y="-3.0">Region</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="right" iconData="4" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#147EBA" verticalTextPosition="center" visible="true" width="90.0537109375" x="-3.0" xml:space="preserve" y="-3.0">Region</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" groupDepthFillColorEnabled="false" innerGraphDisplayEnabled="false"/>
               <y:NodeBounds considerNodeLabelSize="true"/>
@@ -143,7 +139,7 @@
               <y:Geometry height="50.0" width="50.0" x="2567.645492004878" y="-222.17728865878007"/>
               <y:Fill color="#F2F0D8" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:DropShadow color="#D2D2D2" offsetX="4" offsetY="4"/>
               <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
@@ -157,9 +153,8 @@
     </node>
     <node id="n4" yfiles.foldertype="group">
       <data key="d3" xml:space="preserve"><![CDATA[7781098e-195d-4c73-90f8-1f57758397a4]]></data>
-      <data key="d4"/>
+      <data key="d4" xml:space="preserve"><![CDATA[Availability Zone]]></data>
       <data key="d5" xml:space="preserve"/>
-      <data key="d6"/>
       <data key="d7">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
@@ -167,7 +162,7 @@
               <y:Geometry height="143.2673842841765" width="155.0779332615718" x="740.3117330462871" y="30.0"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#147EBA" raised="false" type="dashed" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#147EBA" verticalTextPosition="center" visible="true" width="113.21875" x="20.92959163078592" xml:space="preserve" y="0.0">Availability Zone</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="21.666015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#147EBA" verticalTextPosition="center" visible="true" width="123.94140625" x="15.568263505785922" xml:space="preserve" y="0.0">Availability Zone</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" groupDepthFillColorEnabled="false" innerGraphDisplayEnabled="false"/>
               <y:NodeBounds considerNodeLabelSize="true"/>
@@ -178,7 +173,7 @@
               <y:Geometry height="50.0" width="50.0" x="2766.4687605099452" y="-222.17728865878007"/>
               <y:Fill color="#F2F0D8" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:DropShadow color="#D2D2D2" offsetX="4" offsetY="4"/>
               <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
@@ -192,9 +187,8 @@
     </node>
     <node id="n5" yfiles.foldertype="group">
       <data key="d3" xml:space="preserve"><![CDATA[27a68fd9-2757-48cd-979a-2e69960e36df]]></data>
-      <data key="d4"/>
+      <data key="d4" xml:space="preserve"><![CDATA[VPC]]></data>
       <data key="d5" xml:space="preserve"/>
-      <data key="d6"/>
       <data key="d7">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
@@ -202,7 +196,7 @@
               <y:Geometry height="143.2673842841765" width="155.0779332615718" x="0.0" y="203.2673842841765"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#248814" raised="false" type="line" width="2.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="right" iconData="5" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#248814" verticalTextPosition="center" visible="true" width="70.84228515625" x="-3.0" xml:space="preserve" y="-3.0">VPC</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="right" iconData="5" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#248814" verticalTextPosition="center" visible="true" width="68.4765625" x="-3.0" xml:space="preserve" y="-3.0">VPC</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" groupDepthFillColorEnabled="false" innerGraphDisplayEnabled="false"/>
               <y:NodeBounds considerNodeLabelSize="true"/>
@@ -213,7 +207,7 @@
               <y:Geometry height="50.0" width="50.0" x="1563.097666182859" y="-175.54359651669176"/>
               <y:Fill color="#F2F0D8" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:DropShadow color="#D2D2D2" offsetX="4" offsetY="4"/>
               <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
@@ -227,17 +221,16 @@
     </node>
     <node id="n6" yfiles.foldertype="group">
       <data key="d3" xml:space="preserve"><![CDATA[91a077ad-e6e8-451f-bc67-fd63a3de6722]]></data>
-      <data key="d4"/>
+      <data key="d4" xml:space="preserve"><![CDATA[Public Subnet]]></data>
       <data key="d5" xml:space="preserve"/>
-      <data key="d6"/>
       <data key="d7">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="143.2673842841765" width="155.0779332615718" x="185.07793326157176" y="203.2673842841765"/>
+              <y:Geometry height="143.2673842841765" width="159.0" x="185.0779332615718" y="203.2673842841765"/>
               <y:Fill color="#E6F2F8" transparent="false"/>
               <y:BorderStyle hasColor="false" raised="false" type="line" width="2.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="right" iconData="6" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#248814" verticalTextPosition="center" visible="true" width="132.5634765625" x="-3.0" xml:space="preserve" y="-3.0">Public Subnet</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="right" iconData="6" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#248814" verticalTextPosition="center" visible="true" width="138.2470703125" x="-3.0" xml:space="preserve" y="-3.0">Public Subnet</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" groupDepthFillColorEnabled="false" innerGraphDisplayEnabled="false"/>
               <y:NodeBounds considerNodeLabelSize="true"/>
@@ -248,7 +241,7 @@
               <y:Geometry height="50.0" width="50.0" x="1123.457979680687" y="-172.83311756168413"/>
               <y:Fill color="#F2F0D8" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:DropShadow color="#D2D2D2" offsetX="4" offsetY="4"/>
               <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
@@ -262,17 +255,16 @@
     </node>
     <node id="n7" yfiles.foldertype="group">
       <data key="d3" xml:space="preserve"><![CDATA[0514b199-25c4-4360-9eb7-9426854b971e]]></data>
-      <data key="d4"/>
+      <data key="d4" xml:space="preserve"><![CDATA[Private Subnet]]></data>
       <data key="d5" xml:space="preserve"/>
-      <data key="d6"/>
       <data key="d7">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="143.2673842841765" width="159.0" x="370.1558665231436" y="203.2673842841765"/>
+              <y:Geometry height="143.2673842841765" width="164.0" x="374.0779332615718" y="203.2673842841765"/>
               <y:Fill color="#E6F2F8" transparent="false"/>
               <y:BorderStyle hasColor="false" raised="false" type="line" width="2.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="right" iconData="7" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#147EBA" verticalTextPosition="center" visible="true" width="138.3935546875" x="-3.0" xml:space="preserve" y="-3.0">Private Subnet</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="right" iconData="7" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#147EBA" verticalTextPosition="center" visible="true" width="143.63037109375" x="-3.0" xml:space="preserve" y="-3.0">Private Subnet</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" groupDepthFillColorEnabled="false" innerGraphDisplayEnabled="false"/>
               <y:NodeBounds considerNodeLabelSize="true"/>
@@ -283,7 +275,7 @@
               <y:Geometry height="50.0" width="50.0" x="1335.417433962254" y="-175.54359651669176"/>
               <y:Fill color="#F2F0D8" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:DropShadow color="#D2D2D2" offsetX="4" offsetY="4"/>
               <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
@@ -297,17 +289,17 @@
     </node>
     <node id="n8" yfiles.foldertype="group">
       <data key="d3" xml:space="preserve"><![CDATA[a9758ea1-6069-49f4-b20b-33cdfee30b2d]]></data>
-      <data key="d4"/>
+      <data key="d4" xml:space="preserve"><![CDATA[Server 
+Contents]]></data>
       <data key="d5" xml:space="preserve"/>
-      <data key="d6"/>
       <data key="d7">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="143.2673842841765" width="166.0" x="559.1558665231436" y="203.2673842841765"/>
+              <y:Geometry height="143.2673842841765" width="166.0" x="568.0779332615718" y="203.2673842841765"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#596B85" raised="false" type="line" width="2.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="40.7529296875" horizontalTextPosition="right" iconData="8" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#596B85" verticalTextPosition="bottom" visible="true" width="100.03662109375" x="-3.0" xml:space="preserve" y="-3.0">Server 
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="39.33203125" horizontalTextPosition="right" iconData="8" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#596B85" verticalTextPosition="bottom" visible="true" width="105.4345703125" x="-3.0" xml:space="preserve" y="-3.0">Server 
 Contents</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" groupDepthFillColorEnabled="false" innerGraphDisplayEnabled="false"/>
@@ -319,7 +311,7 @@ Contents</y:NodeLabel>
               <y:Geometry height="50.0" width="50.0" x="2414.188058055112" y="-175.54359651669182"/>
               <y:Fill color="#F2F0D8" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:DropShadow color="#D2D2D2" offsetX="4" offsetY="4"/>
               <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
@@ -333,17 +325,16 @@ Contents</y:NodeLabel>
     </node>
     <node id="n9" yfiles.foldertype="group">
       <data key="d3" xml:space="preserve"><![CDATA[221b0f26-c4a2-4d05-a594-c8e3db48b2ad]]></data>
-      <data key="d4"/>
+      <data key="d4" xml:space="preserve"><![CDATA[Security Group]]></data>
       <data key="d5" xml:space="preserve"/>
-      <data key="d6"/>
       <data key="d7">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="143.2673842841765" width="155.0779332615718" x="755.1558665231436" y="203.2673842841765"/>
+              <y:Geometry height="143.2673842841765" width="155.0779332615718" x="764.0779332615718" y="203.2673842841765"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#DD3522" raised="false" type="line" width="2.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#DD3522" verticalTextPosition="center" visible="true" width="104.04150390625" x="25.51821467766092" xml:space="preserve" y="0.0">Security Group</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="21.666015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#DD3522" verticalTextPosition="center" visible="true" width="111.0361328125" x="22.02090022453592" xml:space="preserve" y="0.0">Security Group</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" groupDepthFillColorEnabled="false" innerGraphDisplayEnabled="false"/>
               <y:NodeBounds considerNodeLabelSize="true"/>
@@ -354,7 +345,7 @@ Contents</y:NodeLabel>
               <y:Geometry height="50.0" width="50.0" x="2766.4687605099452" y="-222.17728865878007"/>
               <y:Fill color="#F2F0D8" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:DropShadow color="#D2D2D2" offsetX="4" offsetY="4"/>
               <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
@@ -368,17 +359,16 @@ Contents</y:NodeLabel>
     </node>
     <node id="n10" yfiles.foldertype="group">
       <data key="d3" xml:space="preserve"><![CDATA[07768531-ba83-4937-8b11-1cbc340fadcc]]></data>
-      <data key="d4"/>
+      <data key="d4" xml:space="preserve"><![CDATA[Auto Scaling Group]]></data>
       <data key="d5" xml:space="preserve"/>
-      <data key="d6"/>
       <data key="d7">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="143.2673842841765" width="155.0779332615718" x="0.0" y="376.534768568353"/>
+              <y:Geometry height="143.2673842841765" width="165.0" x="0.0" y="376.534768568353"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#D86613" raised="false" type="dashed" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="58.37646484375" horizontalTextPosition="center" iconData="9" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#D86613" verticalTextPosition="bottom" visible="true" width="134.078125" x="10.499904130785893" xml:space="preserve" y="-3.0">Auto Scaling Group</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="57.666015625" horizontalTextPosition="center" iconData="9" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#D86613" verticalTextPosition="bottom" visible="true" width="144.29541015625" x="10.352294921875" xml:space="preserve" y="-3.0">Auto Scaling Group</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" groupDepthFillColorEnabled="false" innerGraphDisplayEnabled="false"/>
               <y:NodeBounds considerNodeLabelSize="true"/>
@@ -389,7 +379,7 @@ Contents</y:NodeLabel>
               <y:Geometry height="50.0" width="50.0" x="1766.9256835994047" y="-175.54359651669176"/>
               <y:Fill color="#F2F0D8" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:DropShadow color="#D2D2D2" offsetX="4" offsetY="4"/>
               <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
@@ -403,17 +393,18 @@ Contents</y:NodeLabel>
     </node>
     <node id="n11" yfiles.foldertype="group">
       <data key="d3" xml:space="preserve"><![CDATA[7f9eca8f-cc19-4c23-898d-31b1e5b9af44]]></data>
-      <data key="d4"/>
+      <data key="d4" xml:space="preserve"><![CDATA[Elastic 
+Beanstalk 
+Container]]></data>
       <data key="d5" xml:space="preserve"/>
-      <data key="d6"/>
       <data key="d7">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="143.2673842841765" width="155.0779332615718" x="185.07793326157176" y="376.534768568353"/>
+              <y:Geometry height="143.2673842841765" width="155.0779332615718" x="195.00000000000003" y="376.534768568353"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#D86613" raised="false" type="line" width="2.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.12939453125" horizontalTextPosition="right" iconData="10" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#D86613" verticalTextPosition="bottom" visible="true" width="110.04150390625" x="-3.0" xml:space="preserve" y="-3.0">Elastic 
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="56.998046875" horizontalTextPosition="right" iconData="10" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#D86613" verticalTextPosition="bottom" visible="true" width="113.96728515625" x="-3.0" xml:space="preserve" y="-3.0">Elastic 
 Beanstalk 
 Container</y:NodeLabel>
               <y:Shape type="rectangle"/>
@@ -426,7 +417,7 @@ Container</y:NodeLabel>
               <y:Geometry height="50.0" width="50.0" x="1766.9256835994047" y="-175.54359651669176"/>
               <y:Fill color="#F2F0D8" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:DropShadow color="#D2D2D2" offsetX="4" offsetY="4"/>
               <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
@@ -440,17 +431,17 @@ Container</y:NodeLabel>
     </node>
     <node id="n12" yfiles.foldertype="group">
       <data key="d3" xml:space="preserve"><![CDATA[0c9d5259-aadd-437e-8c4c-47ebfd3c4123]]></data>
-      <data key="d4"/>
+      <data key="d4" xml:space="preserve"><![CDATA[EC2 Instance 
+Contents]]></data>
       <data key="d5" xml:space="preserve"/>
-      <data key="d6"/>
       <data key="d7">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="143.2673842841765" width="155.0779332615718" x="370.1558665231436" y="376.534768568353"/>
+              <y:Geometry height="143.2673842841765" width="159.0" x="380.0779332615718" y="376.534768568353"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#D86613" raised="false" type="line" width="2.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="40.7529296875" horizontalTextPosition="right" iconData="11" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#D86613" verticalTextPosition="bottom" visible="true" width="134.21875" x="-3.0" xml:space="preserve" y="-3.0">EC2 Instance 
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="39.33203125" horizontalTextPosition="right" iconData="11" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#D86613" verticalTextPosition="bottom" visible="true" width="138.00537109375" x="-3.0" xml:space="preserve" y="-3.0">EC2 Instance 
 Contents</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" groupDepthFillColorEnabled="false" innerGraphDisplayEnabled="false"/>
@@ -462,7 +453,7 @@ Contents</y:NodeLabel>
               <y:Geometry height="50.0" width="50.0" x="1766.9256835994047" y="-175.54359651669176"/>
               <y:Fill color="#F2F0D8" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:DropShadow color="#D2D2D2" offsetX="4" offsetY="4"/>
               <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
@@ -476,17 +467,16 @@ Contents</y:NodeLabel>
     </node>
     <node id="n13" yfiles.foldertype="group">
       <data key="d3" xml:space="preserve"><![CDATA[891fd86f-8e44-4942-8654-b9cdb1944ee9]]></data>
-      <data key="d4"/>
+      <data key="d4" xml:space="preserve"><![CDATA[Spot Fleet]]></data>
       <data key="d5" xml:space="preserve"/>
-      <data key="d6"/>
       <data key="d7">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="143.2673842841765" width="155.0779332615718" x="555.2337997847153" y="376.534768568353"/>
+              <y:Geometry height="143.2673842841765" width="155.0779332615718" x="569.0779332615718" y="376.534768568353"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#D86613" raised="false" type="line" width="2.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="right" iconData="12" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#D86613" verticalTextPosition="center" visible="true" width="108.37158203125" x="-3.0" xml:space="preserve" y="-3.0">Spot Fleet</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="right" iconData="12" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#D86613" verticalTextPosition="center" visible="true" width="111.7919921875" x="-3.0" xml:space="preserve" y="-3.0">Spot Fleet</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" groupDepthFillColorEnabled="false" innerGraphDisplayEnabled="false"/>
               <y:NodeBounds considerNodeLabelSize="true"/>
@@ -497,7 +487,7 @@ Contents</y:NodeLabel>
               <y:Geometry height="50.0" width="50.0" x="1766.9256835994047" y="-175.54359651669176"/>
               <y:Fill color="#F2F0D8" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:DropShadow color="#D2D2D2" offsetX="4" offsetY="4"/>
               <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
@@ -511,17 +501,18 @@ Contents</y:NodeLabel>
     </node>
     <node id="n14" yfiles.foldertype="group">
       <data key="d3" xml:space="preserve"><![CDATA[a99cb7a5-012c-490d-b530-b1bffc4aa130]]></data>
-      <data key="d4"/>
+      <data key="d4" xml:space="preserve"><![CDATA[AWS Step 
+Functions 
+Workflow]]></data>
       <data key="d5" xml:space="preserve"/>
-      <data key="d6"/>
       <data key="d7">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="143.2673842841765" width="155.0779332615718" x="740.3117330462871" y="376.534768568353"/>
+              <y:Geometry height="143.2673842841765" width="155.0779332615718" x="754.1558665231437" y="376.534768568353"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#B0084D" raised="false" type="line" width="2.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" horizontalTextPosition="right" iconData="13" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#B0084D" verticalTextPosition="center" visible="true" width="106.6875" x="-3.0" xml:space="preserve" y="-3.0">AWS Step 
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="46.3984375" horizontalTextPosition="right" iconData="13" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#B0084D" verticalTextPosition="center" visible="true" width="108.1640625" x="-3.0" xml:space="preserve" y="-3.0">AWS Step 
 Functions 
 Workflow</y:NodeLabel>
               <y:Shape type="rectangle"/>
@@ -534,7 +525,7 @@ Workflow</y:NodeLabel>
               <y:Geometry height="50.0" width="50.0" x="2414.188058055112" y="-175.54359651669182"/>
               <y:Fill color="#F2F0D8" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:DropShadow color="#D2D2D2" offsetX="4" offsetY="4"/>
               <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
@@ -548,9 +539,10 @@ Workflow</y:NodeLabel>
     </node>
     <node id="n15" yfiles.foldertype="group">
       <data key="d3" xml:space="preserve"><![CDATA[517ca830-998d-45b5-a77d-4aa0d6fad306]]></data>
-      <data key="d4"/>
+      <data key="d4" xml:space="preserve"><![CDATA[AWS IoT 
+Greengrass 
+Deployment]]></data>
       <data key="d5" xml:space="preserve"/>
-      <data key="d6"/>
       <data key="d7">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
@@ -558,7 +550,7 @@ Workflow</y:NodeLabel>
               <y:Geometry height="143.2673842841765" width="155.0779332615718" x="0.0" y="549.8021528525296"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#3F8624" raised="false" type="line" width="2.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" horizontalTextPosition="right" iconData="14" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#3F8624" verticalTextPosition="bottom" visible="true" width="106.029296875" x="-3.0" xml:space="preserve" y="-3.0">AWS IoT 
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="46.3984375" horizontalTextPosition="right" iconData="14" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#3F8624" verticalTextPosition="bottom" visible="true" width="110.16015625" x="-3.0" xml:space="preserve" y="-3.0">AWS IoT 
 Greengrass 
 Deployment</y:NodeLabel>
               <y:Shape type="rectangle"/>
@@ -571,7 +563,7 @@ Deployment</y:NodeLabel>
               <y:Geometry height="50.0" width="50.0" x="2414.188058055112" y="-175.54359651669182"/>
               <y:Fill color="#F2F0D8" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:DropShadow color="#D2D2D2" offsetX="4" offsetY="4"/>
               <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
@@ -585,9 +577,9 @@ Deployment</y:NodeLabel>
     </node>
     <node id="n16" yfiles.foldertype="group">
       <data key="d3" xml:space="preserve"><![CDATA[95e2f008-6f17-4efb-9ff0-628e21002f87]]></data>
-      <data key="d4"/>
+      <data key="d4" xml:space="preserve"><![CDATA[AWS IoT 
+Greengrass]]></data>
       <data key="d5" xml:space="preserve"/>
-      <data key="d6"/>
       <data key="d7">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
@@ -595,7 +587,7 @@ Deployment</y:NodeLabel>
               <y:Geometry height="143.2673842841765" width="155.0779332615718" x="185.07793326157176" y="549.8021528525296"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#3F8624" raised="false" type="line" width="2.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="right" iconData="14" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#3F8624" verticalTextPosition="center" visible="true" width="102.6953125" x="-3.0" xml:space="preserve" y="-3.0">AWS IoT 
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="-3.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="right" iconData="14" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#3F8624" verticalTextPosition="center" visible="true" width="105.654296875" x="-3.0" xml:space="preserve" y="-3.0">AWS IoT 
 Greengrass</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" groupDepthFillColorEnabled="false" innerGraphDisplayEnabled="false"/>
@@ -607,7 +599,7 @@ Greengrass</y:NodeLabel>
               <y:Geometry height="50.0" width="50.0" x="2414.188058055112" y="-175.54359651669182"/>
               <y:Fill color="#F2F0D8" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" xml:space="preserve" y="0.0">3</y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:DropShadow color="#D2D2D2" offsetX="4" offsetY="4"/>
               <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
